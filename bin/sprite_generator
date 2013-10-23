@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'sprite_generator'
+
+SpriteGenerator::CLI.start

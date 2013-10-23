@@ -1,6 +1,6 @@
 # SpriteGenerator
 
-TODO: Write a gem description
+Create sprites programmatically.
 
 ## Installation
 
@@ -18,7 +18,13 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+    $ sprite_generator generate FILE -f, --frames=FRAMES -h, --height=HEIGHT -w, --width=WIDTH
+
+### Options
+
+* `-w`, `--width=WIDTH` Width of sprite frames
+* `-h`, `--height=HEIGHT` Height of sprite frames
+* `-f`, `--frames=FRAMES` Number of frames
 
 ## Contributing
 
